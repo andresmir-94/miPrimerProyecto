@@ -1,2 +1,3 @@
 Mis objetivos del Master de Full Stack Developer son:
 1. Aprender a estructurar contenido web con HTML.
+2. Aprender a estilar contenido web con CSS.
